@@ -1,0 +1,21 @@
+.container{
+    background-color: #DCDCDC;
+    width: 562px;
+    height: 650px;
+    }
+.picture{
+    width: 159.24px;
+    height: 146,57px;
+    margin-top: 10%;
+    margin-right: 5%;
+}    
+.text{
+    margin-right: 0%;
+}
+main {
+    width: 476px;
+    height: 311px;
+    padding-top: 20px;
+    padding-left: 10px;
+    text-align: center;
+}
